@@ -13,8 +13,8 @@ public class Main {
         int diff = firstNumber - secondNumber;
         System.out.println("Разность чисел равна " + diff);
         int mult = firstNumber * secondNumber;
-        System.out.println("Сумма чисел равна " + mult);
+        System.out.println("Произведение чисел равно " + mult);
         double div = (double) firstNumber / secondNumber;
-        System.out.println("Сумма чисел равна " + div);
+        System.out.println("Деление чисел равно " + div);
     }
 }
